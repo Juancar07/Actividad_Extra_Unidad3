@@ -1,0 +1,11 @@
+Resumen de la primera Unidad:
+El contenido de esta primera etapa fue interesante y no se me complicó tanto. 
+Al principio me abrumó el hecho de tener que convertir una oración a numeros binarios, sin embargo, 
+al realizar la tarea, me resultó fácil.
+
+La segunda etapa correspondió a la creación de algoritmos, base de la programación, al igual que la anterior 
+no me resultó complicado.
+
+La tercera etapa correspondiente a las proposiciones y valores de verdad, aqui si me resultó un tanto complicado,
+pues tenía que identificar las condiciones que validan o invalidan mis proposiciones, sin embargo, espero haberlo resuelto
+correctamente.

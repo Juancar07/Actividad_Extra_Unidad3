@@ -1,0 +1,5 @@
+Resumen Unidad 2:
+Esta unidad si fue compleja ya que nunca había usado el lenguaje javaScript, tuve que investigar un poco como 
+desarrollar mi programa. Al final me apoyé con la iA y videos en youtube, ya que para ser sinceros al principio no 
+le veía pies ni cabeza a la resolución del programa. Esto me frustra un poco porque siento que no soy tan bueno con
+esto de la programación pero no desistiré tan fácil.

@@ -1,0 +1,4 @@
+Resumen de la Unidad 3:
+Esta unidad fue menos complicada que las anteriores, debido a que ya había utilizado git en otras ocaciones.
+De hecho ya tenía instalado git en mi imac y ya había hecho la conección con mi github, lo único malo de esto fue 
+que no pude hacer uso de mi correo galileo ya que no me lo permitio el programa. Espero no tener problemas por esto.
